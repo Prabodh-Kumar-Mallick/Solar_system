@@ -1,0 +1,106 @@
+body{
+    background-image: url(starry-sky-2675322_1280.jpg);
+    background-attachment: fixed;
+}
+#neptune{
+    height: 900px;
+    width: 900px;
+    border: 1px solid wheat;
+    border-radius: 50%;
+    padding: 50px;
+}
+#nep{
+    position: absolute;
+    top: 20px;
+    left: 500px;
+}
+#uranus{
+    height: 800px;
+    width: 800px;
+    border: 1px solid wheat;
+    border-radius: 50%;
+    padding: 50px;
+}
+#ura{
+    position: absolute;
+    top: 100px;
+    left: 440px;
+}
+#saturn{
+    height: 700px;
+    width: 700px;
+    border: 1px solid wheat;
+    border-radius: 50%;
+    padding: 50px;
+}
+#sat{
+    position: absolute;
+    top: 80px;
+    left: 600px;
+}
+#jupiter{
+    height: 600px;
+    width: 600px;
+    border: 1px solid wheat;
+    border-radius: 50%;
+    padding: 50px;
+}
+#jup{
+    position: absolute;
+    top: 120px;
+    left: 700px;
+}
+#mars{
+    height: 500px;
+    width: 500px;
+    border: 1px solid wheat;
+    border-radius: 50%;
+    padding: 50px;
+}
+#mar{
+    position: absolute;
+    top: 180px;
+    left: 800px;
+}
+#earth{
+    height: 400px;
+    width: 400px;
+    border: 1px solid wheat;
+    border-radius: 50%;
+    padding: 50px;
+}
+#ear{
+    position: absolute;
+    top: 300px;
+    left: 900px;
+}
+#venus{
+    height: 300px;
+    width: 300px;
+    border: 1px solid wheat;
+    border-radius: 50%;
+    padding: 50px;
+}
+#ven{
+    position: absolute;
+    top: 400px;
+    left: 550px;
+}
+#mercury{
+    height: 200px;
+    width: 200px;
+    border: 1px solid wheat;
+    border-radius: 50%;
+    padding: 50px;
+    
+}
+#mer{
+    position: absolute;
+    top: 500px;
+    left: 580px;
+}
+#su{
+    position: absolute;
+    top: 410px;
+    left: 600px;  
+}
